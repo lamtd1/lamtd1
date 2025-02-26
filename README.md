@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lamtd1/lamtd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Duy Lâm 👋
 
-I am a 2nd year student at Hanoi University of Science and Technology 🎓
+I am a 3rd year student at Hanoi University of Science and Technology 🎓
 
 ![Profile views](https://komarev.com/ghpvc/?username=lamtd1&color=blue)
 
