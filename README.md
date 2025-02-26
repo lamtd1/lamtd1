@@ -11,7 +11,7 @@
 🔗 Check out my projects: [GitHub Profile](https://github.com/lamtd1)
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/t%E1%BA%A1-duy-l%C3%A2m-14b034282/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:taduylam1608@gmail.com)
 
 ---
