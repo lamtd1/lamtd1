@@ -38,9 +38,3 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lamtd1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtd1&layout=compact&theme=radical)
-
-## 🌟 GitHub Achievements  
-![GitHub stars](https://img.shields.io/github/stars/lamtd1?style=social)
