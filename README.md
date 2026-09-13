@@ -1,6 +1,5 @@
 # Hi, I'm Duy Lâm 👋
 
-🎓 4rd-year student at Hanoi University of Science and Technology  
 💻 Passionate about Full-Stack Development & AI 
 
 ![Profile views](https://komarev.com/ghpvc/?username=lamtd1&color=blue)
